@@ -51,3 +51,14 @@ Padrão de enderecamento de rede. Possui 32 bits divididos em quatro octetos,4 g
 >**NAT(Network Address Translator):** 
 
 **CIDR(Classeless Inter-Domain Routing):** Determina um padrão de divisão entre máscara e hosts. Na tabela acima 10.0.0.0/8 , o barra 8 equivale aos bits reservados à REDE.
+
+
+#### IPv6 8x16 = 128
+
+Zeros à esquerda são omitidos(comprimindo o endereço)
+
+Nas redes privadas possuem um endereço padrão
+
+1º endereço é rede,mas é válido para endereçar Host.
+
+o endereço ponto a ponto, (/127), 2^1 = 2 (rede pode ser usado no host).
