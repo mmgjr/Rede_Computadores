@@ -50,7 +50,7 @@ Padrão de enderecamento de rede. Possui 32 bits divididos em quatro octetos,4 g
 
 ### Classes de IPs Reservados ou Privados
 
-**Faixa de endereço IP**|**Notação CIDR**|**Nº de redes**|**Números de IPs**|**IPs por rede**|
+|**Classe**|**Faixa de endereço IP**|**Notação CIDR**|**Nº de redes**|**Números de IPs**|**IPs por rede**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**A**|10.0.0.0 até 10.255.255.255|10.0.0.0/8|128|16.777.216|16.777.214|
 |**B**|172.16.0.0 até 127.31.255.255|172.16.0.0/12|16.384|1.048.576|65.534|
